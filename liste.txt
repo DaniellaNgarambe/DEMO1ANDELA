@@ -3,3 +3,6 @@ jambon
 fromage
 pain
 vin
+sucre
+allumette
+
