@@ -3,3 +3,6 @@ cameroun
 rwanda
 paris 
 amsterdam
+durban
+abu dhabi
+thailand
